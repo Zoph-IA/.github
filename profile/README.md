@@ -1,5 +1,5 @@
-# Welcome to ZophIA! 🚀
-Welcome to ZophIA, your go-to team for cutting-edge AI development and data analysis! 🤖💻
+# Welcome to ZophIA by KA! 🚀
+Welcome to ZophIA by KA, your go-to team for cutting-edge AI development and data analysis! 🤖💻
 
 ## About Us ℹ️
 At ZophIA, we're passionate about exploring the depths of artificial intelligence, from deep learning and machine learning to computer vision and generative AI. Our team is dedicated to pushing the boundaries of what's possible with data, whether it's through engineering robust data pipelines, conducting insightful data analysis, or unleashing the power of AI to solve complex problems.
