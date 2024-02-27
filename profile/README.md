@@ -13,8 +13,9 @@ Excited to join our mission? We welcome contributions from enthusiasts and exper
 ## Our Team 👥
 Meet the brilliant minds behind ZophIA:
 
-Enrique Gómez Tagle 🧠 : Data Engineer ML / GenAI Expert
-Mauricio Asencio 📊 : Data Scientist - Computer Vision Expert
+- Enrique Gómez Tagle 🧠 : Data Engineer ML / GenAI Expert
+- Mauricio Asencio 📊 : Data Scientist - Computer Vision Expert
+  
 Join the Conversation 💬
 
 Let's Unleash Innovation Together! 💡
